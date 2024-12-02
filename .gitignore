@@ -1,0 +1,40 @@
+# 가상환경 폴더
+venv/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 환경 변수 파일
+*.env
+
+# SQLite 데이터베이스 파일
+db.sqlite3
+
+# Django 로그 파일
+*.log
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# IDE/편집기 설정 파일
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 결과물
+dist/
+build/
+*.egg-info/
+
+# 기타 불필요한 파일
+*.bak
+*.swp
+ 
